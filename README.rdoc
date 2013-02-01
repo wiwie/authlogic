@@ -1,3 +1,6 @@
+A fork of authlogic which is compatible with a read-only db user by disabling the magic columns module.
+
+
 = Authlogic
 
 ** Please note the latest version is compatible with rails 3 only. Please see the rails2 branch for Rails 2 compatibility.
