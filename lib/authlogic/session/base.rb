@@ -25,7 +25,7 @@ module Authlogic
       include BruteForceProtection
       include Existence
       include Klass
-      include MagicColumns
+      #include MagicColumns
       include PerishableToken
       include Persistence
       include Scopes
